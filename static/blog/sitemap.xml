@@ -4,210 +4,210 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2016-06-20T11:03:43-00:00</lastmod>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/</loc>
+<lastmod>2016-06-20T11:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2016-06-20T11:03:43-00:00</lastmod>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/archives.html</loc>
+<lastmod>2016-06-20T11:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2016-06-20T11:03:43-00:00</lastmod>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tags.html</loc>
+<lastmod>2016-06-20T11:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./categories.html</loc>
-<lastmod>2016-06-20T11:03:43-00:00</lastmod>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/categories.html</loc>
+<lastmod>2016-06-20T11:10:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323146-qi-mo-bao-gao.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/40323146-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323148-zong-zheng-li.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/40323148-zong-zheng-li.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./si-she-er-jia-di-yi-zu-qi-mo-bao-gao.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/si-she-er-jia-di-yi-zu-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40023139-qi-mo-bao-gao.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/40023139-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40223153-final.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/40223153-final.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323105-qi-mo-bao-gao.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/40323105-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323106-final-bao-gao.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/40323106-final-bao-gao.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323107-final-qi-mo-bao-gao.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/40323107-final-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-20T10:50:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/ag1.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/category/ag1.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/ag100.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/category/ag100.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323105.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40323148.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/cdw18.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40323106.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323146.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/cdw18.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323148.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40323107.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40223153.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40023139.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40023139.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40323105.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323106.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40323146.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323199.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40223153.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323107.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/tag/40323199.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40023139.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/author/40023139.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323105.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/author/40323105.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323146.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/author/40323146.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323148.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/author/40323148.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323153.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/author/40323153.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323199.html</loc>
+<loc>http://cdw18-ag100.rhcloud.com/static/blog/author/40323199.html</loc>
 <lastmod>2016-06-20T10:50:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
