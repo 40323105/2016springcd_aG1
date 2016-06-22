@@ -35,38 +35,38 @@
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
-<v t="leo.20160620090610.1" a="E"><vh>@clean aG1.py</vh>
-<v t="leo.20160620090610.2"><vh>aG1 declarations</vh></v>
-<v t="leo.20160620090610.3"><vh>a</vh></v>
-<v t="leo.20160620090610.4"><vh>b</vh></v>
-<v t="leo.20160620090610.5"><vh>c</vh></v>
-<v t="leo.20160620090610.6"><vh>d</vh></v>
-<v t="leo.20160620090610.7"><vh>circle</vh></v>
-<v t="leo.20160620090610.8"><vh>circle1</vh></v>
-<v t="leo.20160620090610.9"><vh>circle2</vh></v>
-<v t="leo.20160620090610.10"><vh>twocircle</vh></v>
-<v t="leo.20160620090610.11"><vh>eighteenthirty</vh></v>
-<v t="leo.20160620090610.12"><vh>draw_a</vh></v>
-<v t="leo.20160620090610.13"><vh>draw_b</vh></v>
-<v t="leo.20160620090610.14"><vh>draw_c</vh></v>
-<v t="leo.20160620090610.15"><vh>draw_d</vh></v>
-<v t="leo.20160620090610.16"><vh>draw_ab</vh></v>
-<v t="leo.20160620090610.17"><vh>draw_ac</vh></v>
-<v t="leo.20160620090610.18"><vh>draw_bc</vh></v>
-<v t="leo.20160620090610.19"><vh>draw_abc</vh></v>
-<v t="leo.20160620090610.20"><vh>draw_aaaa</vh></v>
-<v t="leo.20160620090610.21"><vh>draw_badc</vh></v>
-<v t="leo.20160620090610.22"><vh>draw_abcd</vh></v>
-<v t="leo.20160620090610.23"><vh>drawcircle</vh></v>
-<v t="leo.20160620090610.24"><vh>drawcircle1</vh></v>
-<v t="leo.20160620090610.25"><vh>drawcircle2</vh></v>
-<v t="leo.20160620090610.26"><vh>drawtwocircle</vh></v>
-<v t="leo.20160620090610.27"><vh>draweithteenthirdy</vh></v>
-<v t="leo.20160620090610.28"><vh>snap</vh></v>
-<v t="leo.20160620090610.29"><vh>snap_link</vh></v>
-<v t="leo.20160620090610.30"><vh>snap_gear</vh></v>
-<v t="leo.20160620090610.31"><vh>2D</vh></v>
-<v t="leo.20160620090610.32"><vh>2D1</vh></v>
+<v t="leo.20160622205716.1" a="E"><vh>@clean aG1.py</vh>
+<v t="leo.20160622205716.2"><vh>aG1 declarations</vh></v>
+<v t="leo.20160622205716.3"><vh>a</vh></v>
+<v t="leo.20160622205716.4"><vh>b</vh></v>
+<v t="leo.20160622205716.5"><vh>c</vh></v>
+<v t="leo.20160622205716.6"><vh>d</vh></v>
+<v t="leo.20160622205716.7"><vh>circle</vh></v>
+<v t="leo.20160622205716.8"><vh>circle1</vh></v>
+<v t="leo.20160622205716.9"><vh>circle2</vh></v>
+<v t="leo.20160622205716.10"><vh>twocircle</vh></v>
+<v t="leo.20160622205716.11"><vh>eighteenthirty</vh></v>
+<v t="leo.20160622205716.12"><vh>draw_a</vh></v>
+<v t="leo.20160622205716.13"><vh>draw_b</vh></v>
+<v t="leo.20160622205716.14"><vh>draw_c</vh></v>
+<v t="leo.20160622205716.15"><vh>draw_d</vh></v>
+<v t="leo.20160622205716.16"><vh>draw_ab</vh></v>
+<v t="leo.20160622205716.17"><vh>draw_ac</vh></v>
+<v t="leo.20160622205716.18"><vh>draw_bc</vh></v>
+<v t="leo.20160622205716.19"><vh>draw_abc</vh></v>
+<v t="leo.20160622205716.20"><vh>draw_aaaa</vh></v>
+<v t="leo.20160622205716.21"><vh>draw_badc</vh></v>
+<v t="leo.20160622205716.22"><vh>draw_abcd</vh></v>
+<v t="leo.20160622205716.23"><vh>drawcircle</vh></v>
+<v t="leo.20160622205716.24"><vh>drawcircle1</vh></v>
+<v t="leo.20160622205716.25"><vh>drawcircle2</vh></v>
+<v t="leo.20160622205716.26"><vh>drawtwocircle</vh></v>
+<v t="leo.20160622205716.27"><vh>draweithteenthirdy</vh></v>
+<v t="leo.20160622205716.28"><vh>snap</vh></v>
+<v t="leo.20160622205716.29"><vh>snap_link</vh></v>
+<v t="leo.20160622205716.30"><vh>snap_gear</vh></v>
+<v t="leo.20160622205716.31"><vh>2D</vh></v>
+<v t="leo.20160622205716.32"><vh>2D1</vh></v>
 </v>
 <v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
@@ -515,11 +515,11 @@ def send_blog():
   return app.send_static_file('blog/index.html')
 
 </t>
-<t tx="leo.20160620090610.1">@language python
+<t tx="leo.20160622205716.1">@language python
 @tabwidth -4
 @others
 </t>
-<t tx="leo.20160620090610.10">def twocircle(x, y):
+<t tx="leo.20160622205716.10">def twocircle(x, y):
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
@@ -595,7 +595,7 @@ r1, s1 = mychain.basic_rot(p13, k13, '''+str(first_degree)+''')
  
     return outstring
 </t>
-<t tx="leo.20160620090610.11">def eighteenthirty(x, y):
+<t tx="leo.20160622205716.11">def eighteenthirty(x, y):
     '''
 從圖解法與符號式解法得到的兩條外切線座標點
 (-203.592946177111, 0.0), (0.0, 0.0), (-214.364148466539, 56.5714145924675), (-17.8936874260919, 93.9794075692901)
@@ -675,58 +675,58 @@ r1, s1 = mychain.basic_rot(x11, y11, '''+str(first_degree)+''')
  
  
 </t>
-<t tx="leo.20160620090610.12">@aG1.route('/a')
+<t tx="leo.20160622205716.12">@aG1.route('/a')
 def draw_a():
     return head_str + chain_str + a(0, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.13">@aG1.route('/b')
+<t tx="leo.20160622205716.13">@aG1.route('/b')
 def draw_b():
    # 每個橫向字元距離為 65 pixels, 上下字距則為 110 pixels
     return head_str + chain_str + b(0+65, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.14">@aG1.route('/c')
+<t tx="leo.20160622205716.14">@aG1.route('/c')
 def draw_c():
     # 每個橫向字元距離為 65 pixels
     return head_str + chain_str + c(0+65*2, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.15">@aG1.route('/d')
+<t tx="leo.20160622205716.15">@aG1.route('/d')
 def draw_d():
     return head_str + chain_str + d(0+65*3, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.16">@aG1.route('/ab')
+<t tx="leo.20160622205716.16">@aG1.route('/ab')
 def draw_ab():
     #return head_str + chain_str + a(0, 0) + b(0+65, 0) + tail_str
     return head_str + chain_str + a(0, 0) + b(0, 0-110) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.17">@aG1.route('/ac')
+<t tx="leo.20160622205716.17">@aG1.route('/ac')
 def draw_ac():
     return head_str + chain_str + a(0, 0) + c(0+65, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.18">@aG1.route('/bc')
+<t tx="leo.20160622205716.18">@aG1.route('/bc')
 def draw_bc():
     return head_str + chain_str + b(0, 0) + c(0+65, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.19">@aG1.route('/abc')
+<t tx="leo.20160622205716.19">@aG1.route('/abc')
 def draw_abc():
     return head_str + chain_str + a(0, 0) + b(0+65, 0) + c(0+65*2, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.2">from flask import Blueprint, request
+<t tx="leo.20160622205716.2">from flask import Blueprint, request
  
 aG1 = Blueprint('aG1', __name__, url_prefix='/aG1', template_folder='templates')
  
@@ -864,7 +864,7 @@ class chain():
 '''
  
 </t>
-<t tx="leo.20160620090610.20">@aG1.route('/aaaa')
+<t tx="leo.20160622205716.20">@aG1.route('/aaaa')
 def draw_aaaa():
     outstring = head_str + chain_str
     scale = 2
@@ -876,26 +876,26 @@ def draw_aaaa():
  
  
 </t>
-<t tx="leo.20160620090610.21">@aG1.route('/badc')
+<t tx="leo.20160622205716.21">@aG1.route('/badc')
 def draw_badc():
     return head_str + chain_str + b(0, 0) + a(0+65, 0) + d(0+65*2, 0) + c(0+65*3, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.22">@aG1.route('/abcd')
+<t tx="leo.20160622205716.22">@aG1.route('/abcd')
 def draw_abcd():
     #return head_str + chain_str + a(0, 0) + b(0+65, 0) + c(0+65*2, 0) + d(0+65*3, 0) + tail_str
     return head_str + chain_str + a(0, 110) + b(0, 110-110) + c(0, 110-110*2) + d(0, 110-110*3) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.23">@aG1.route('/circle')
+<t tx="leo.20160622205716.23">@aG1.route('/circle')
 def drawcircle():
     return head_str + chain_str + circle(0, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.24">@aG1.route('/circle1/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
+<t tx="leo.20160622205716.24">@aG1.route('/circle1/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
 @aG1.route('/circle1/&lt;x&gt;/&lt;degree&gt;', defaults={'y': 0})
 @aG1.route('/circle1/&lt;x&gt;/&lt;y&gt;/&lt;degree&gt;')
 #@aG1.route('/circle1/&lt;int:x&gt;/&lt;int:y&gt;/&lt;int:degree&gt;')
@@ -904,7 +904,7 @@ def drawcircle1(x,y,degree):
  
  
 </t>
-<t tx="leo.20160620090610.25">@aG1.route('/circle2/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
+<t tx="leo.20160622205716.25">@aG1.route('/circle2/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
 @aG1.route('/circle2/&lt;x&gt;/&lt;degree&gt;', defaults={'y': 0})
 @aG1.route('/circle2/&lt;x&gt;/&lt;y&gt;/&lt;degree&gt;')
 #@aG1.route('/circle2/&lt;int:x&gt;/&lt;int:y&gt;/&lt;int:degree&gt;')
@@ -913,21 +913,21 @@ def drawcircle2(x,y,degree):
  
  
 </t>
-<t tx="leo.20160620090610.26">@aG1.route('/twocircle/&lt;x&gt;/&lt;y&gt;')
+<t tx="leo.20160622205716.26">@aG1.route('/twocircle/&lt;x&gt;/&lt;y&gt;')
 @aG1.route('/twocircle', defaults={'x':0, 'y':0})
 def drawtwocircle(x,y):
     return head_str + chain_str + twocircle(int(x), int(y)) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.27">@aG1.route('/eighteenthirty/&lt;x&gt;/&lt;y&gt;')
+<t tx="leo.20160622205716.27">@aG1.route('/eighteenthirty/&lt;x&gt;/&lt;y&gt;')
 @aG1.route('/eighteenthirty', defaults={'x':0, 'y':0})
 def draweithteenthirdy(x,y):
     return head_str + chain_str + eighteenthirty(int(x), int(y)) + tail_str
  
  
 </t>
-<t tx="leo.20160620090610.28">@aG1.route('/snap')
+<t tx="leo.20160622205716.28">@aG1.route('/snap')
 # http://svg.dabbles.info/snaptut-base
 def snap():
     outstring = '''
@@ -1007,7 +1007,7 @@ document['tux'].bind('mouseleave', hoverout)
  
  
 </t>
-<t tx="leo.20160620090610.29">@aG1.route('/snap_link')
+<t tx="leo.20160622205716.29">@aG1.route('/snap_link')
 # http://svg.dabbles.info/
 def snap_link():
     outstring = '''
@@ -1090,7 +1090,7 @@ g4.animate( { 'transform' : 'r360,25,25' },4000)
  
  
 </t>
-<t tx="leo.20160620090610.3"># 傳繪 A 函式內容
+<t tx="leo.20160622205716.3"># 傳繪 A 函式內容
 def a(x, y, scale=1, color="green"):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1120,7 +1120,7 @@ mychain.basic(x10, y10, x1, y1)
  
  
 </t>
-<t tx="leo.20160620090610.30">@aG1.route('/snap_gear')
+<t tx="leo.20160622205716.30">@aG1.route('/snap_gear')
 def snap_gear():
     outstring = '''
 &lt;!DOCTYPE html&gt;
@@ -1160,7 +1160,7 @@ s.line(0, 0, 100, 100).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth'
 '''
     return outstring
 </t>
-<t tx="leo.20160620090610.31">@aG1.route('/ag1_2D')
+<t tx="leo.20160622205716.31">@aG1.route('/ag1_2D')
 def ag1_2D():
     outstring = '''
 &lt;!DOCTYPE html&gt;
@@ -1307,7 +1307,7 @@ spur(cx+pr1+pr2+pr2+pr3, cy, m, n3, pa, 180-180/n3+(180-180/n2)*n2/n3)
 '''
     return outstring
 </t>
-<t tx="leo.20160620090610.32">@aG1.route('/ag1_2D1')
+<t tx="leo.20160622205716.32">@aG1.route('/ag1_2D1')
 def ag1_2D1():
     outstring = '''
 &lt;!DOCTYPE html&gt;
@@ -1509,7 +1509,7 @@ r10, s10=mychain.basic_rot(r9, s9, -10.78)
 '''
     return outstring
 </t>
-<t tx="leo.20160620090610.4"># 傳繪 B 函式內容
+<t tx="leo.20160622205716.4"># 傳繪 B 函式內容
 def b(x, y):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1546,7 +1546,7 @@ mychain.basic(x12,y12, '''+str(x)+","+str(y)+''')
     return outstring
  
 </t>
-<t tx="leo.20160620090610.5"># 傳繪 C 函式內容
+<t tx="leo.20160622205716.5"># 傳繪 C 函式內容
 def c(x, y):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1575,7 +1575,7 @@ x7, y7 = mychain.basic_rot(x6, y6, -0)
  
  
 </t>
-<t tx="leo.20160620090610.6"># 傳繪 D 函式內容
+<t tx="leo.20160622205716.6"># 傳繪 D 函式內容
 def d(x, y):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1606,7 +1606,7 @@ mychain.basic(x10, y10, '''+str(x)+","+str(y)+''')
     return outstring
  
 </t>
-<t tx="leo.20160620090610.7">def circle(x, y):
+<t tx="leo.20160622205716.7">def circle(x, y):
     outstring = '''
 mychain = chain()
  
@@ -1617,7 +1617,7 @@ x1, y1 = mychain.basic_rot('''+str(x)+","+str(y)+''', 50)
     return outstring
  
 </t>
-<t tx="leo.20160620090610.8">def circle1(x, y, degree=10):
+<t tx="leo.20160622205716.8">def circle1(x, y, degree=10):
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
@@ -1635,7 +1635,7 @@ x1, y1 = mychain.basic_rot('''+str(x)+","+str(y)+", "+str(first_degree)+''')
  
  
 </t>
-<t tx="leo.20160620090610.9">def circle2(x, y, degree=10):
+<t tx="leo.20160622205716.9">def circle2(x, y, degree=10):
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
