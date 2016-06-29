@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/</loc>
-<lastmod>2016-06-29T20:09:59-00:00</lastmod>
+<lastmod>2016-06-29T21:27:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/archives.html</loc>
-<lastmod>2016-06-29T20:09:59-00:00</lastmod>
+<lastmod>2016-06-29T21:27:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tags.html</loc>
-<lastmod>2016-06-29T20:09:59-00:00</lastmod>
+<lastmod>2016-06-29T21:27:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/categories.html</loc>
-<lastmod>2016-06-29T20:09:59-00:00</lastmod>
+<lastmod>2016-06-29T21:27:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,7 +109,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/final-qi-mo-bao-gao.html</loc>
+<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/ag1.html</loc>
+<lastmod>2016-06-29T14:04:20+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/40323107.html</loc>
 <lastmod>2016-06-29T14:04:20+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -137,7 +144,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/40323106.html</loc>
+<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/final-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-29T14:04:20+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -151,14 +158,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/40323148.html</loc>
+<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/cdw18.html</loc>
 <lastmod>2016-06-29T14:04:20+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/ag1.html</loc>
+<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/40323148.html</loc>
 <lastmod>2016-06-29T14:04:20+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -172,14 +179,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/40323107.html</loc>
-<lastmod>2016-06-29T14:04:20+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/cdw18.html</loc>
+<loc>http://ag1finalreport-40323106.rhcloud.com//static/blog/tag/40323106.html</loc>
 <lastmod>2016-06-29T14:04:20+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
